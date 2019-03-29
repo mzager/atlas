@@ -1,6 +1,8 @@
 ---
 title: Docs
 template: blank
+description: A Chromatin Cell Atlas of the Developing Fly Embryo
+keywords: SOMA, Brotman Baty
 ---
 
 [Source](http://atlas.gs.washington.edu/fly-atac/docs/ "Permalink to A Chromatin Cell Atlas of the Developing Fly Embryo")

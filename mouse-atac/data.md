@@ -1,6 +1,8 @@
 ---
 title: Docs
 template: blank
+description: A Mouse ATAC Atlas
+keywords: SOMA, Brotman Baty
 ---
 
 [Source](http://atlas.gs.washington.edu/mouse-atac/data/ "Permalink to Mouse ATAC Atlas")

@@ -1,6 +1,8 @@
 ---
 title: Docs
 template: blank
+description: Seattle Organismal Molecular Atlases
+keywords: SOMA, Brotman Baty
 ---
 
 [Source](http://atlas.gs.washington.edu/hub/contrib/ 'Permalink to SOMA Data Portal')

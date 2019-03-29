@@ -1,6 +1,8 @@
 ---
 title: Docs
 template: blank
+description: A Mouse ATAC Atlas
+keywords: SOMA, Brotman Baty
 ---
 
 [Source](http://atlas.gs.washington.edu/worm-rna/data/ "Permalink to Cell Atlas of Worm")
