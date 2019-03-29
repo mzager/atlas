@@ -697,18 +697,18 @@ For more examples of analyses that you can do with monocle, please visit the mon
 [6]: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE101581
 [7]: https://github.com/shendurelab/fly-atac/
 [8]: http://shiny.furlonglab.embl.de/scATACseqBrowser/
-[9]: http://atlas.gs.washington.edu/images/docs_9_0.png
-[10]: http://atlas.gs.washington.edu/images/docs_11_0.png
-[11]: http://atlas.gs.washington.edu/images/docs_21_0.png
-[12]: http://atlas.gs.washington.edu/images/docs_26_0.png
-[13]: http://atlas.gs.washington.edu/images/docs_26_1.png
+[9]: /images/docs_9_0.png
+[10]: /images/docs_11_0.png
+[11]: /images/docs_21_0.png
+[12]: /images/docs_26_0.png
+[13]: /images/docs_26_1.png
 [14]: http://science.sciencemag.org/content/344/6191/1492
-[15]: http://atlas.gs.washington.edu/images/docs_35_0.png
-[16]: http://atlas.gs.washington.edu/images/docs_38_0.png
+[15]: /images/docs_35_0.png
+[16]: /images/docs_38_0.png
 [17]: http://genome.ucsc.edu/cgi-bin/hgTracks?db=dm3&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3R%3A18852361-18852769&hgsid=643680341_WUtTSN0POZLME0gO3LWuI5A5OXJi
 [18]: http://www.sdbonline.org/sites/fly/gene/lamedk1.htm
-[19]: http://atlas.gs.washington.edu/images/docs_55_0.png
-[20]: http://atlas.gs.washington.edu/images/docs_67_0.png
+[19]: /images/docs_55_0.png
+[20]: /images/docs_67_0.png
 [21]: http://cole-trapnell-lab.github.io/monocle-release/docs_mobile/
 
   

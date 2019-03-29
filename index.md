@@ -44,16 +44,16 @@ Cell count: ~49,000
 [ ![][10]][11] [ ![][12]][13]  
 Shendure, Trapnell, Waterston, and Furlong labs © 2018. Worm image derived from original © 2017 Mark Leaver. Used with permission.
 
-[1]: http://atlas.gs.washington.edu/images/globe_tissue_colors.png
+[1]: /images/globe_tissue_colors.png
 [2]: https://www.cell.com/cell/fulltext/S0092-8674(18)30855-9
-[3]: http://atlas.gs.washington.edu/images/MouseButton.png
+[3]: /images/MouseButton.png
 [4]: http://science.sciencemag.org/content/357/6352/661
-[5]: http://atlas.gs.washington.edu/images/worm-drawing-3-button.png
-[6]: http://atlas.gs.washington.edu/images/bbi-logo-horizontal.png
+[5]: /images/worm-drawing-3-button.png
+[6]: /images/bbi-logo-horizontal.png
 [7]: https://brotmanbatyinstitute.org
-[8]: http://atlas.gs.washington.edu/images/allen-logo.png
+[8]: /images/allen-logo.png
 [9]: http://allen-lineage.org/
-[10]: http://atlas.gs.washington.edu/images/hhmi-logo.png
+[10]: /images/hhmi-logo.png
 [11]: http://www.hhmi.org/
-[12]: http://atlas.gs.washington.edu/images/GS-Logo.png
+[12]: /images/GS-Logo.png
 [13]: http://www.gs.washington.edu/

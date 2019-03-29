@@ -40,7 +40,7 @@ sci-ATAC-seq uses a paradigm called combinatorial indexing, where nucelic acids 
 [1]: https://www.cell.com/cell/fulltext/S0092-8674(18)30855-9
 [2]: http://atlas.gs.washington.edu/mouse-atac/data/
 [3]: http://atlas.gs.washington.edu/mouse-atac/docs/
-[4]: http://atlas.gs.washington.edu/images/ukbb_viz.png
+[4]: /images/ukbb_viz.png
 [5]: http://atlas.gs.washington.edu/mouse-atac/ukbb_visualization/
-[6]: http://atlas.gs.washington.edu/images/sciatac.png
+[6]: /images/sciatac.png
 [7]: http://science.sciencemag.org/content/348/6237/910.long

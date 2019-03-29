@@ -15,5 +15,5 @@ Our preliminary analysis shows that the worm contains cells, such as the ASE neu
 
 [View details »][2]
 
-[1]: http://atlas.gs.washington.edu/images/worm-marker-tree.png
+[1]: /images/worm-marker-tree.png
 [2]: http://atlas.gs.washington.edu/worm-rna/docs/#use-case-4-re-clustering-cell-subsets-using-t-sne

@@ -3,8 +3,6 @@ title: Docs
 template: blank
 ---
 
-[Source](http://atlas.gs.washington.edu/hub/pubs/ 'Permalink to SOMA Data Portal')
-
 # SOMA Data Portal
 
 ## 2018

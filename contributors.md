@@ -40,7 +40,7 @@ Shendure, Trapnell, Waterston, and Furlong labs © 2018.
 [1]: http://atlas.gs.washington.edu/hub/
 [2]: http://atlas.gs.washington.edu/hub/pubs/
 [3]: http://atlas.gs.washington.edu/hub/contrib/
-[4]: http://atlas.gs.washington.edu/images/QtS6MrDK_50x50.png
+[4]: /images/QtS6MrDK_50x50.png
 [5]: http://krishna.gs.washington.edu/
 [6]: http://atlas.gs.washington.edu/fly-atac/
 [7]: http://atlas.gs.washington.edu/worm-rna/
@@ -48,5 +48,5 @@ Shendure, Trapnell, Waterston, and Furlong labs © 2018.
 [9]: http://cole-trapnell-lab.github.io/
 [10]: http://waterston.gs.washington.edu/
 [11]: http://depts.washington.edu/disteche/
-[12]: http://atlas.gs.washington.edu/images/240px-EMBL_logo_crop.png
+[12]: /images/240px-EMBL_logo_crop.png
 [13]: http://furlonglab.embl.de/
