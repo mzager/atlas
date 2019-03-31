@@ -9,6 +9,8 @@ keywords: SOMA, Brotman Baty
 
 # A Chromatin Cell Atlas of the Developing Fly Embryo
 
+## Chromatin accessibility in developing Drosophila melanogaster embryos at single-cell resolution
+
 In [Cusanovich, Reddington, Garfield _et al._ (_Nature_, 2018)][1], we reported single-cell ATAC-seq of _Drosophila melanogaster_ embryos at 3 different stages of development (2-4, 6-8, and 10-12 hours after egg laying) using a combinatorial indexing approach (sci-ATAC-seq).
 
 Here, you can download some of the data for yourself and explore how cells clearly cluster into the germ layers by 6-8 hours after egg laying.

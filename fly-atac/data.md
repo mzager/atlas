@@ -7,8 +7,6 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/fly-atac/data/ "Permalink to A Chromatin Cell Atlas of the Developing Fly Embryo")
 
-# A Chromatin Cell Atlas of the Developing Fly Embryo
-
 ## Published Data
 
 On this page, we make some of the raw data files available for conducting your own analyses.
@@ -17,7 +15,7 @@ On this page, we make some of the raw data files available for conducting your o
 
 Here are links to all of the data used in the tutorial (code is presented for downloading and processing these files through the course of the tutorial too). 
 
-| Name                                     | Last modified     | Size | Description                                                                                                                                                                                                                             |
+| Name                                     | Modified          | Size | Description                                                                                                                                                                                                                             |
 | ---------------------------------------- | ----------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [irlba_1.0.3.tar.gz][1]                  | 18-Nov-2017 17:20 | 177K | Source code for `irlba` version 1.0.3, the version used for latent semantic indexing in Cusanovich, Reddington, Garfield _et al._                                                                                                       |
 | [monocle_2.3.5.tar.gz][2]                | 18-Nov-2017 17:20 | 16M  | Source code for `Monocle` version 2.3.5, the version used for pseudotemporal ordering in Cusanovich, Reddington, Garfield _et al._                                                                                                      |

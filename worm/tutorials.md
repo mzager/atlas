@@ -7,8 +7,6 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/worm-rna/docs/ "Permalink to Cell Atlas of Worm")
 
-# Cell Atlas of Worm
-
 ## Introduction
 
 This notebook will show you how to work with the C. elegans L2-stage sci-RNA-seq data from [Cao et al. (Science, 2017)][1].  

@@ -7,8 +7,6 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/mouse-atac/data/ "Permalink to Mouse ATAC Atlas")
 
-# Mouse ATAC Atlas
-
 ## Release Updates
 
 * `08/14/2018` adds `UCSC Trackhub and BigWigs` section which provides documentation on new bigWig files and a UCSC Trackhub for visualization.

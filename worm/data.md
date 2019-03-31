@@ -7,8 +7,6 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/worm-rna/data/ "Permalink to Cell Atlas of Worm")
 
-# Cell Atlas of Worm
-
 ## Published Data
 
 | Name                                           | Last modified     | Size | Description                                                                                                                                                              |

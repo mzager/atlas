@@ -7,8 +7,6 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/mouse-atac/docs/ "Permalink to Mouse ATAC Atlas")
 
-# Mouse ATAC Atlas
-
 ## Data Availability and Github
 
 In several portions of this tutorial we may call out files on our [downloads page][1]. Any R/python scripts referenced in this tutorial are available on our [Github page][2].

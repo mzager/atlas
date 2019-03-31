@@ -11,7 +11,7 @@ keywords: SOMA, Brotman Baty
 
 ## ![][1]Seattle Organismal Molecular Atlases (SOMA)
 
-#### **Chromatin accessibility in the adult mouse**
+#### Chromatin accessibility in the adult mouse
 
 ###### [Cusanovich, Hill et al. Cell (2018) ][2]
 
@@ -39,7 +39,7 @@ Method: sci-RNA-seq
 
 Cell count: ~49,000
 
-#### Single cell genomics can in principle reveal the molecular definition of every cell type in an entire animal. The Shendure, Trapnell and collaborating labs have begun generating "whole organism" single cell datasets for mouse, worm, fly and other animals, including of gene expression (sci-RNA-seq) and chromatin accessibility (sci-ATAC-seq). This website serves as a data portal and a repository for our analysis code and protocols. We also provide tutorials to assist you in downloading, analyzing and exploring these datasets.
+Single cell genomics can in principle reveal the molecular definition of every cell type in an entire animal. The Shendure, Trapnell and collaborating labs have begun generating "whole organism" single cell datasets for mouse, worm, fly and other animals, including of gene expression (sci-RNA-seq) and chromatin accessibility (sci-ATAC-seq). This website serves as a data portal and a repository for our analysis code and protocols. We also provide tutorials to assist you in downloading, analyzing and exploring these datasets.
 
 [ ![][6]][7] [ ![][8]][9]
 

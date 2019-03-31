@@ -7,14 +7,7 @@ keywords: SOMA, Brotman Baty
 
 [Source](http://atlas.gs.washington.edu/hub/contrib/ 'Permalink to SOMA Data Portal')
 
-# SOMA Data Portal
-
-Toggle navigation [SOMA Data Portal][1]
-
-- [Publications][2]
-- [Contributors][3]
-
-![][4]
+# Contributing Labs
 
 ### [Shendure Lab][5]
 
